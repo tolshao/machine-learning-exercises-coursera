@@ -1,0 +1,20 @@
+Dear Author(s):
+
+This letter is to notice you that the following paper, submitted to the
+2020 CSAA/IET International Conference on Aircraft Utility Systems, is
+received.
+
+Paper Information
+------------------------------------
+Paper ID: 209
+
+Language: English
+
+Submission Type: Regular Paper
+
+Area: A10 Landing Gear and Brake Control
+
+Code: 
+
+Title: Modeling and Simulation of Aircraft Ground Taxiing based on
+Flightgear Visualization
